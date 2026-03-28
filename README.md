@@ -9,12 +9,13 @@ I made this page to showcase my programming projects. Some of them are academic,
 > [!NOTE]
 > Most of these projects were completed before I knew about GitHub. Therefore, a lot of them are just straight uploads. Contact me regarding any issues
 
-| Project                                               | Language   | Tags                          |
-| :---                                                  | :---:      | :---:                         |
-| [Entertainment Robot GUI]()                           | C#         | _(Academic, Complete)_        |
-| [Old OCR Project]()                                   | Java       | _(Academic, Incomplete, WIP)_ |
-| [Discord Bot](https://github.com/derickdr/harbot-djs) | Javascript | _(Personal, Complete)_        |
-| [New OCR Project]()                                   | Python, C  | _(Personal, Incomplete, WIP)_ |
+# List of Significant Projects
+| Project                                                                 | Language   | Tags                          |
+| :---                                                                    | :---:      | :---:                         |
+| [Entertainment Robot GUI](https://github.com/PotatoMussab/RobotProgram) | C#         | _(Academic, Complete)_        |
+| [Old OCR Project](https://github.com/PotatoMussab/Old-OCR-Project)      | Java       | _(Academic, Incomplete, WIP)_ |
+| [Discord Bot](https://github.com/derickdr/harbot-djs)                   | Javascript | _(Personal, Complete)_        |
+| New OCR Project                                                         | Python, C  | _(Personal, Incomplete, WIP)_ |
 | and more to come :shushing_face:... |
 
 
